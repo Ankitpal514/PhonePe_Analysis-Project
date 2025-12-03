@@ -39,6 +39,10 @@ Clean and modern UI/UX for analytics
 
   ---
 
+  Project link: https://drive.google.com/file/d/1qIjyUvQodTO8lDV7Vnw9YP1NISYzL2CM/view?usp=sharing
+
+  ---
+
 🧠 Key Insights (Placeholder)
 
 (Add details once you provide data)
